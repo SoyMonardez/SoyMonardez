@@ -1,49 +1,33 @@
-# Hola, soy Alejo Monárdez 👋
+# Hola, soy Alejo Monárdez
 
-### Desarrollador Full Stack · Productos digitales · Automatización con IA
+### Desarrollador de software · Python · Automatización · IA aplicada
 
-Construyo experiencias web y herramientas de negocio completas: desde una interfaz cuidada hasta la API, la base de datos, automatizaciones y despliegue.
+Soy estudiante de primer año de la Licenciatura en Ciencia de Datos y desarrollo sistemas SaaS y aplicaciones web. Trabajo con asistencia de herramientas de inteligencia artificial durante el proceso de desarrollo, sin presentar mi formación actual como una especialidad.
 
-- 🚀 Trabajo con productos reales para negocios y proyectos propios.
-- 🤖 Integro IA de forma práctica para ahorrar tiempo y mejorar la experiencia.
-- 🧩 Me interesan especialmente los SaaS, la automatización y el software útil.
-- 🌐 Portfolio: [alejomonardez.com](https://alejomonardez.com)
+Puedo analizar una necesidad, estructurar el sistema, diseñar la base de datos, definir funcionalidades, integrar APIs, probar el producto y preparar su despliegue con Docker, Linux y VPS.
 
 ## Proyectos destacados
 
-| Proyecto | Qué resuelve | Stack |
+| Proyecto y contexto | Qué construí | Stack |
 | --- | --- | --- |
-| [MiTurno](https://github.com/SoyMonardez/MiTurno) | SaaS multi-tenant para turnos, reservas y gestión de negocios de servicios. Incluye bot de WhatsApp con IA, recordatorios, lista de espera y reportes. | FastAPI · React · PostgreSQL · Redis · Docker |
-| [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa) | Plataforma web y panel de administración para una constructora de San Juan: captación de clientes, gestión de obras, postulaciones y contenido bilingüe asistido por IA. | React · Node.js · PostgreSQL · Docker |
-| [Portfolio personal](https://github.com/SoyMonardez/portafolio_AlejoMonardez) | Portfolio full-stack con CMS propio, autenticación, panel de administración, i18n y servicio de IA. | React · Express · MySQL · Groq |
-| [CloudMenu](https://github.com/SoyMonardez/CloudMenu) | Carta digital PWA para gastronomía con panel administrativo, QR, analítica y optimización automática de imágenes. | PHP · MySQL · JavaScript · PWA |
+| [MiTurno](https://github.com/SoyMonardez/MiTurno) · Proyecto personal | SaaS multi-tenant para reservas y gestión de negocios de servicios, con bot de WhatsApp, recordatorios y reportes. | FastAPI · React · PostgreSQL · Redis · Docker |
+| [FinBot WhatsApp](https://github.com/SoyMonardez/bot_whatsapp) · Proyecto personal | Bot familiar para registrar y consultar gastos mediante texto o audio. | FastAPI · PostgreSQL · Whisper · Llama · Evolution API |
+| [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa) · Trabajo freelance | Sitio y panel de gestión para una constructora, con contenido bilingüe asistido por IA. | React · Node.js · PostgreSQL · Docker |
+| [Portfolio personal](https://github.com/SoyMonardez/portafolio_AlejoMonardez) · Proyecto personal | Portfolio full-stack con CMS, administración, i18n e integración de IA. | React · Express · MySQL · Docker |
+| [CloudMenu](https://github.com/SoyMonardez/CloudMenu) · Proyecto personal | Carta digital PWA con administración, QR, estadísticas y gestión de productos. | PHP · MySQL · JavaScript · PWA |
 
 ## Stack principal
 
-**Frontend**  
-React · Vite · Tailwind CSS · JavaScript · HTML · CSS · Framer Motion · GSAP
+- **Backend y datos:** Python, FastAPI, Node.js, Express, PostgreSQL, MySQL y Redis.
+- **Frontend:** React, Vite, Tailwind CSS, JavaScript, HTML y CSS.
+- **IA y automatización:** LLM, RAG, chatbots, Whisper, Llama, Groq y Evolution API.
+- **Infraestructura:** Docker, Git, GitHub, Linux, Nginx y VPS.
 
-**Backend y datos**  
-Node.js · Express · FastAPI · PHP · PostgreSQL · MySQL · Redis
+## En qué estoy trabajando
 
-**Herramientas**  
-Docker · Git · GitHub · Nginx · REST APIs · PWA · Linux
-
-**IA y automatización**  
-Groq · Llama · WhatsApp Business / Evolution API · Celery
-
-## Cómo trabajo
-
-```text
-Idea → diseño → frontend → API → base de datos → automatización → despliegue
-```
-
-Me gusta desarrollar productos claros, rápidos y mantenibles, con foco en resolver problemas reales y no solo en “hacer una web”.
+Actualmente fortalezco mi capacidad para escribir, depurar y probar código Python de manera autónoma. Busco oportunidades en desarrollo Python, backend, automatización con IA, implementación de software e integraciones.
 
 ## Contacto
 
-Si querés ver más proyectos o trabajar juntos, visitá mi [portfolio](https://alejomonardez.com).
-
----
-
-<sub>Hecho con código, criterio y ganas de construir cosas que sirvan.</sub>
+- Portfolio: [alejomonardez.com](https://alejomonardez.com)
+- LinkedIn: [alejo-monardez](https://www.linkedin.com/in/alejo-monardez/)
