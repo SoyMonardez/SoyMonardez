@@ -75,24 +75,9 @@ Aplicación mobile-first para armar presupuestos de obra **hablándole al celula
 
 ## 🛠️ Tecnologías
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,nodejs,express&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Node.js, Express" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts&theme=dark" alt="React, Vite, Tailwind CSS, JavaScript, TypeScript" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infraestructura</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions&theme=dark" alt="Docker, Nginx, Linux, Git, GitHub, GitHub Actions" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>También</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,prisma,php&theme=dark" alt="MySQL, SQLite, Prisma, PHP" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,nodejs,react,ts,linux,git,docker,tailwind&perline=10&theme=dark" alt="Python, PostgreSQL, JavaScript, Node.js, React, TypeScript, Linux, Git, Docker, Tailwind CSS" />
+</p>
 
 **IA aplicada:** Claude (Anthropic), Llama y Whisper vía Groq, ElevenLabs y WhatsApp con Evolution API. Asistentes de voz, chatbots, extracción de datos y automatización conversacional.
 
