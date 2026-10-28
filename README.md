@@ -12,46 +12,34 @@ Transformo ideas y procesos en aplicaciones funcionales, participando en el aná
 
 ## Proyectos destacados
 
-### [Presupuestos de obra con asistente de voz](https://github.com/SoyMonardez/sistema-presupuestos)
+Los mismos que destaco en mi portfolio: [alejomonardez.com](https://alejomonardez.com).
 
-Proyecto propio, en producción. PWA para armar presupuestos de construcción hablándole al celular: un asistente de voz en tiempo real coordina tres modelos (voz a texto, separación de pedidos y decisión) y la voz que responde. La IA propone los cambios y el servidor los valida y hace las cuentas. Historial de versiones por ítem, conversión de unidades exacta, exportación a PDF y más de 180 pruebas automatizadas.
+### [MiTurno](https://github.com/SoyMonardez/MiTurno) — Gestión de turnos · [demo en vivo](https://miturno.alejomonardez.com/miturno)
 
-**Tecnologías:** Node.js, Express, SQLite, JavaScript, Web Audio API, Claude, Groq, ElevenLabs y Docker.
+Plataforma web de turnos para negocios de servicios: los clientes reservan servicio, profesional y horario, y cada negocio administra su agenda, profesionales, clientes y recordatorios desde su propio panel. Varios negocios conviven en la misma aplicación con sus datos separados a nivel de base de datos (Row Level Security), un índice único impide reservar dos veces el mismo horario y un bot de WhatsApp responde consultas y toma reservas.
 
-### [MiTurno](https://github.com/SoyMonardez/MiTurno) · [demo](https://miturno.alejomonardez.com/miturno)
+**Tecnologías:** Python, FastAPI, PostgreSQL, React, Vite, Tailwind CSS, Celery, Redis, Groq, Docker y Nginx.
 
-Proyecto propio. SaaS multi-tenant para negocios de servicios con los datos de cada negocio aislados mediante Row Level Security en PostgreSQL. Incluye reservas públicas, panel por profesional, bot de WhatsApp con IA, recordatorios automáticos, lista de espera, comisiones y reportes.
+### [Fluxa](https://github.com/SoyMonardez/gestion-fluxa) — Gestión de obras · en producción
 
-**Tecnologías:** Python, FastAPI, PostgreSQL, React, Tailwind CSS, Celery, Redis, Evolution API, Groq y Docker.
+PWA *offline-first* para gestionar obras desde el celular que reemplaza el cuaderno de obra. Centraliza asistencia, pagos semanales con adelantos, cuadrillas y herramientas, funciona sin señal y sincroniza sola cuando vuelve la conexión. La primera pantalla pesa cerca de 100 KB comprimidos; pruebas y CI en GitHub Actions.
 
-### [Fluxa / ETEM — obras desde el celular](https://github.com/SoyMonardez/gestion-fluxa)
+**Tecnologías:** Python, FastAPI, PostgreSQL, React, Vite, Tailwind CSS, IndexedDB, Service Workers y Docker.
 
-Proyecto propio para una empresa constructora. PWA *offline-first* que reemplaza el cuaderno de obra: asistencia, pagos semanales con descuento de adelantos, cuadrillas y herramientas. Funciona sin señal y sincroniza las operaciones en orden y sin duplicados al volver la conexión. Pruebas y CI en GitHub Actions.
+### [Presupuesta](https://github.com/SoyMonardez/sistema-presupuestos) — Presupuestos con IA · en producción
 
-**Tecnologías:** Python, FastAPI, PostgreSQL, React, IndexedDB, Service Workers, Docker y Caddy.
+Aplicación mobile-first para armar presupuestos de obra por ítems desde el celular, con dictado por voz, interpretación de jerga local mediante IA y exportación a PDF. El profesional dicta o importa los ítems, revisa lo que la IA propone y exporta el PDF desde el mismo dispositivo. La aritmética y las conversiones las resuelve el servidor, no el modelo.
 
-### [FinBot WhatsApp](https://github.com/SoyMonardez/bot_whatsapp)
+**Tecnologías:** Node.js, Express, SQLite, JavaScript, Python, Claude, Groq, ElevenLabs, Docker y Nginx.
 
-Proyecto propio para registrar y consultar gastos familiares desde WhatsApp mediante texto o notas de voz. Interpreta movimientos, los categoriza, genera resúmenes y permite crear recordatorios o corregir registros desde la conversación.
+## Más proyectos
 
-**Tecnologías:** Python, FastAPI, PostgreSQL, SQLAlchemy, Groq, Whisper, Llama, Evolution API, Redis y Docker.
-
-### [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa)
-
-Trabajo freelance. Sitio institucional y sistema de gestión de contenido para una constructora, con panel administrativo para obras, maquinaria, consultas y postulaciones. Incluye analítica propia y anónima con consentimiento, y funciones de IA para redactar descripciones e interpretar métricas.
-
-**Tecnologías:** React, Node.js, Express, PostgreSQL, Groq, Llama, Docker y Nginx.
-
-### [Portfolio personal](https://github.com/SoyMonardez/portafolio_AlejoMonardez) · [sitio](https://alejomonardez.com)
-
-Aplicación full-stack para presentar y administrar proyectos, con panel de gestión, contenido en español e inglés, formulario de contacto e integración de modelos de lenguaje para asistir la edición de contenido.
-
-**Tecnologías:** React, Node.js, Express, MySQL, Groq y Llama.
-
-### Otros proyectos
-
-- [Gancho](https://github.com/SoyMonardez/gancho-app) — MVP de punto de venta por peso para carnicerías, con roles, caja e imágenes Docker publicadas por GitHub Actions. React, Express y MySQL.
-- [Natasha Models Academy](https://github.com/SoyMonardez/NatashaModelsAcademy) — plataforma bilingüe para una academia de modelaje con panel de administración e ingreso con Google. React, TypeScript, Express y Prisma.
+- **aceroGYM** *(en producción · repositorio privado)* — backoffice para gimnasios que centraliza socios, membresías, clases, accesos y caja auditable, con seguimiento automático de vencimientos e inactividad. Python, React, TypeScript, PostgreSQL y Docker.
+- [FinBot WhatsApp](https://github.com/SoyMonardez/bot_whatsapp) — registra y consulta gastos familiares desde WhatsApp con texto o notas de voz. FastAPI, PostgreSQL, Whisper y Llama.
+- [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa) — *freelance:* sitio institucional y panel de gestión para una constructora, con analítica propia y funciones de IA. React, Express y PostgreSQL.
+- [Portfolio personal](https://github.com/SoyMonardez/portafolio_AlejoMonardez) — sitio bilingüe con CMS propio y edición asistida por IA. React, Express y MySQL.
+- [Gancho](https://github.com/SoyMonardez/gancho-app) — MVP de punto de venta por peso para carnicerías. React, Express y MySQL.
+- [Natasha Models Academy](https://github.com/SoyMonardez/NatashaModelsAcademy) — plataforma para una academia de modelaje con panel de administración. React, TypeScript, Express y Prisma.
 
 ## Tecnologías
 
