@@ -1,100 +1,107 @@
-<div align="center">
+<a href="https://alejomonardez.com"><img alt="Alejo Monardez · Desarrollador Full Stack — Software que automatiza, responde, ayuda y resuelve." src="assets/hero-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com"><img alt="Alejo Monardez · Desarrollador Full Stack — Software que automatiza, responde, ayuda y resuelve." src="assets/hero-dark.svg#gh-dark-mode-only" width="100%"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Alejo%20Mon%C3%A1rdez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Backend%20%C2%B7%20IA%20aplicada&descAlignY=60&descSize=16" width="100%" alt="Alejo Monárdez — Desarrollador Full Stack" />
+<p>
+<a href="https://alejomonardez.com/proyectos"><img alt="Ver proyectos" src="assets/b-proyectos-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/proyectos"><img alt="Ver proyectos" src="assets/b-proyectos-dark.svg#gh-dark-mode-only"></a>
+<a href="https://alejomonardez.com/uploads/cv/Alejo-Monardez-CV-2026.pdf"><img alt="Descargar CV" src="assets/b-cv-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/uploads/cv/Alejo-Monardez-CV-2026.pdf"><img alt="Descargar CV" src="assets/b-cv-dark.svg#gh-dark-mode-only"></a>
+<a href="https://www.linkedin.com/in/alejo-monardez/"><img alt="LinkedIn" src="assets/b-linkedin-light.svg#gh-light-mode-only"></a><a href="https://www.linkedin.com/in/alejo-monardez/"><img alt="LinkedIn" src="assets/b-linkedin-dark.svg#gh-dark-mode-only"></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=SaaS+multi-tenant+con+FastAPI+y+PostgreSQL;PWAs+offline-first+que+funcionan+sin+se%C3%B1al;Asistentes+de+voz+e+IA+aplicada+a+productos+reales" alt="SaaS multi-tenant, PWAs offline-first e IA aplicada" />
+<br>
 
-<br />
+<img alt="Sobre mí — Primero entender el problema. Después, el código." src="assets/h-sobre-mi-light.svg#gh-light-mode-only" width="100%"><img alt="Sobre mí — Primero entender el problema. Después, el código." src="assets/h-sobre-mi-dark.svg#gh-dark-mode-only" width="100%">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alejomonardez.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alejomonardez.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-alejo--monardez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-monardez/)
+Soy **Técnico en Informática** y desarrollador de software, con dos años de experiencia práctica desarrollando aplicaciones web, sistemas de gestión e integraciones. Trabajo con **Python, React y PostgreSQL**, y sumo automatización e inteligencia artificial cuando aportan valor real, manteniendo el criterio técnico sobre el código. Estudio la **Licenciatura en Ciencia de Datos** en la Universidad Siglo 21.
 
-</div>
+| Qué hago | Cómo lo aplico |
+|:--|:--|
+| **01** &nbsp; Desarrollo de software | Aplicaciones web y sistemas de gestión, del modelado de datos al despliegue. |
+| **02** &nbsp; Inteligencia artificial aplicada | Modelos de lenguaje integrados por API: asistentes conversacionales y procesamiento de información. |
+| **03** &nbsp; Automatización e integraciones | Python y JavaScript para conectar servicios y simplificar procesos repetitivos. |
+| **04** &nbsp; Comunicación y trabajo en equipo | Coordiné un equipo de tres personas en proyectos con requerimientos reales de empresas y pymes. |
 
----
+<br>
 
-## 👋 Sobre mí
+<a href="https://alejomonardez.com/proyectos"><img alt="Proyectos destacados." src="assets/h-proyectos-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com/proyectos"><img alt="Proyectos destacados." src="assets/h-proyectos-dark.svg#gh-dark-mode-only" width="100%"></a>
 
-Construyo **sistemas SaaS, APIs y automatizaciones** que resuelven necesidades concretas, desde el análisis del problema hasta el despliegue. Trabajo principalmente con **Python, FastAPI, PostgreSQL, React y Docker**, e incorporo **inteligencia artificial** cuando aporta una función útil al producto.
+Aplicaciones que diseñé y desarrollé: el problema que resuelven, mi participación y las tecnologías utilizadas.
 
-- 🏗️ Llevo productos de punta a punta: relevamiento, modelado de datos, APIs, interfaz, pruebas, Docker y deploy en VPS.
-- 🤖 Integro IA con criterio: **la IA propone y el servidor valida**; las cuentas y las reglas de negocio las resuelve el código.
-- 🎓 Estudio la **Licenciatura en Ciencia de Datos** en la Universidad Siglo 21.
+<br>
 
----
+<a href="https://alejomonardez.com/proyectos/miturno"><img alt="01 · MiTurno — Gestión de Turnos" src="assets/p-miturno-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com/proyectos/miturno"><img alt="01 · MiTurno — Gestión de Turnos" src="assets/p-miturno-dark.svg#gh-dark-mode-only" width="100%"></a>
 
-## 🚀 Proyectos destacados
+<a href="https://miturno.alejomonardez.com/miturno"><img src="https://raw.githubusercontent.com/SoyMonardez/MiTurno/main/docs/img/reserva-publica.png" alt="MiTurno — página pública de reservas" width="70%"></a>
 
-### 🗓️ [MiTurno](https://github.com/SoyMonardez/MiTurno) — Gestión de turnos
+Plataforma web de turnos para negocios de servicios: los clientes reservan servicio, profesional y horario, y cada negocio administra su agenda, profesionales, clientes y recordatorios desde su propio panel. Varios negocios conviven en la misma aplicación con **sus datos separados a nivel de base de datos** (Row Level Security), un índice único impide la doble reserva y un bot de WhatsApp con IA responde consultas y toma turnos.
 
-<p align="center"><a href="https://miturno.alejomonardez.com/miturno"><img src="https://raw.githubusercontent.com/SoyMonardez/MiTurno/main/docs/img/reserva-publica.png" alt="MiTurno — página pública de reservas" width="70%" /></a></p>
+<img alt="Python, FastAPI, PostgreSQL, React, Tailwind CSS, Redis, Docker, Nginx" src="assets/t-miturno-light.svg#gh-light-mode-only"><img alt="Python, FastAPI, PostgreSQL, React, Tailwind CSS, Redis, Docker, Nginx" src="assets/t-miturno-dark.svg#gh-dark-mode-only">
 
-Plataforma de turnos para negocios de servicios: los clientes reservan servicio, profesional y horario, y cada negocio administra su agenda, profesionales, clientes y recordatorios desde su propio panel. Varios negocios conviven en la misma aplicación con **sus datos separados a nivel de base de datos (Row Level Security)**, un índice único impide la doble reserva y un **bot de WhatsApp con IA** responde consultas y toma turnos.
+<p>
+<a href="https://miturno.alejomonardez.com/miturno"><img alt="Ver demostración" src="assets/b-demo-light.svg#gh-light-mode-only"></a><a href="https://miturno.alejomonardez.com/miturno"><img alt="Ver demostración" src="assets/b-demo-dark.svg#gh-dark-mode-only"></a>
+<a href="https://github.com/SoyMonardez/MiTurno"><img alt="Ver repositorio" src="assets/b-repo-light.svg#gh-light-mode-only"></a><a href="https://github.com/SoyMonardez/MiTurno"><img alt="Ver repositorio" src="assets/b-repo-dark.svg#gh-dark-mode-only"></a>
+<a href="https://alejomonardez.com/proyectos/miturno"><img alt="Detalles técnicos" src="assets/b-detalles-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/proyectos/miturno"><img alt="Detalles técnicos" src="assets/b-detalles-dark.svg#gh-dark-mode-only"></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery%20%2B%20Redis-37814A?logo=celery&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<br>
 
-**[🔗 Demo en vivo](https://miturno.alejomonardez.com/miturno)** · **[📂 Código](https://github.com/SoyMonardez/MiTurno)**
+<a href="https://alejomonardez.com/proyectos/fluxa"><img alt="02 · Fluxa — Gestión de Obras" src="assets/p-fluxa-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com/proyectos/fluxa"><img alt="02 · Fluxa — Gestión de Obras" src="assets/p-fluxa-dark.svg#gh-dark-mode-only" width="100%"></a>
 
----
+<a href="https://github.com/SoyMonardez/gestion-fluxa"><img src="https://raw.githubusercontent.com/SoyMonardez/gestion-fluxa/main/docs/capturas/1-asistencia-y-adelantos.png" alt="Fluxa — asistencia, jornadas y adelantos" width="100%"></a>
 
-### 🏗️ [Fluxa](https://github.com/SoyMonardez/gestion-fluxa) — Gestión de obras · *en producción*
+PWA **offline-first** para gestionar obras desde el celular que reemplaza el cuaderno de obra. Centraliza asistencia, pagos semanales con adelantos, cuadrillas y herramientas, y **sincroniza sola cuando vuelve la señal**, en orden y sin duplicados. La primera pantalla pesa cerca de 100 KB comprimidos; pruebas y CI en GitHub Actions.
 
-<a href="https://github.com/SoyMonardez/gestion-fluxa"><img src="https://raw.githubusercontent.com/SoyMonardez/gestion-fluxa/main/docs/capturas/1-asistencia-y-adelantos.png" alt="Fluxa — asistencia, jornadas y adelantos" width="100%" /></a>
+<img alt="Python, FastAPI, PostgreSQL, React, Vite, Tailwind CSS, Docker, Nginx" src="assets/t-fluxa-light.svg#gh-light-mode-only"><img alt="Python, FastAPI, PostgreSQL, React, Vite, Tailwind CSS, Docker, Nginx" src="assets/t-fluxa-dark.svg#gh-dark-mode-only">
 
-PWA **offline-first** que reemplaza el cuaderno de obra: asistencia, pagos semanales con adelantos, cuadrillas y herramientas. **Funciona sin señal** y sincroniza sola cuando vuelve la conexión, en orden y sin duplicados. La primera pantalla pesa cerca de 100 KB comprimidos; pruebas y CI en GitHub Actions.
+<p>
+<a href="https://github.com/SoyMonardez/gestion-fluxa"><img alt="Ver repositorio" src="assets/b-repo-light.svg#gh-light-mode-only"></a><a href="https://github.com/SoyMonardez/gestion-fluxa"><img alt="Ver repositorio" src="assets/b-repo-dark.svg#gh-dark-mode-only"></a>
+<a href="https://alejomonardez.com/proyectos/fluxa"><img alt="Detalles técnicos" src="assets/b-detalles-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/proyectos/fluxa"><img alt="Detalles técnicos" src="assets/b-detalles-dark.svg#gh-dark-mode-only"></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![PWA](https://img.shields.io/badge/PWA-offline--first-5A0FC8) ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+<br>
 
-**[📂 Código y capturas](https://github.com/SoyMonardez/gestion-fluxa)**
+<a href="https://alejomonardez.com/proyectos/presupuesta"><img alt="03 · Presupuesta — Presupuestos con IA" src="assets/p-presupuesta-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com/proyectos/presupuesta"><img alt="03 · Presupuesta — Presupuestos con IA" src="assets/p-presupuesta-dark.svg#gh-dark-mode-only" width="100%"></a>
 
----
+<a href="https://github.com/SoyMonardez/sistema-presupuestos"><img src="https://raw.githubusercontent.com/SoyMonardez/sistema-presupuestos/main/docs/img/escritorio.png" alt="Presupuesta — editor con asistente de voz" width="100%"></a>
 
-### 🎙️ [Presupuesta](https://github.com/SoyMonardez/sistema-presupuestos) — Presupuestos con IA · *en producción*
+Aplicación mobile-first para armar presupuestos de obra por ítems desde el celular, con **dictado por voz**, interpretación de jerga local mediante IA y exportación a PDF. El profesional revisa lo que la IA propone antes de aplicarlo: **la aritmética la resuelve el servidor, no el modelo**. Más de 180 pruebas automatizadas.
 
-<a href="https://github.com/SoyMonardez/sistema-presupuestos"><img src="https://raw.githubusercontent.com/SoyMonardez/sistema-presupuestos/main/docs/img/escritorio.png" alt="Presupuesta — editor con asistente de voz" width="100%" /></a>
+<img alt="JavaScript, Node.js, Express, SQLite, Python, Docker, Nginx" src="assets/t-presupuesta-light.svg#gh-light-mode-only"><img alt="JavaScript, Node.js, Express, SQLite, Python, Docker, Nginx" src="assets/t-presupuesta-dark.svg#gh-dark-mode-only">
 
-Aplicación mobile-first para armar presupuestos de obra **hablándole al celular**: dictado por voz en tiempo real, interpretación de jerga local con IA y exportación a PDF. El profesional revisa lo que la IA propone antes de aplicarlo, y **la aritmética y las conversiones las resuelve el servidor, no el modelo**. Más de 180 pruebas automatizadas.
+<p>
+<a href="https://github.com/SoyMonardez/sistema-presupuestos"><img alt="Ver repositorio" src="assets/b-repo-light.svg#gh-light-mode-only"></a><a href="https://github.com/SoyMonardez/sistema-presupuestos"><img alt="Ver repositorio" src="assets/b-repo-dark.svg#gh-dark-mode-only"></a>
+<a href="https://alejomonardez.com/proyectos/presupuesta"><img alt="Detalles técnicos" src="assets/b-detalles-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/proyectos/presupuesta"><img alt="Detalles técnicos" src="assets/b-detalles-dark.svg#gh-dark-mode-only"></a>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000)
+<br>
 
-**[📂 Código y documentación](https://github.com/SoyMonardez/sistema-presupuestos)**
-
----
-
-## 📁 Más proyectos
+<img alt="Más proyectos." src="assets/h-mas-proyectos-light.svg#gh-light-mode-only" width="100%"><img alt="Más proyectos." src="assets/h-mas-proyectos-dark.svg#gh-dark-mode-only" width="100%">
 
 | Proyecto | Qué es | Stack |
-|---|---|---|
-| **aceroGYM** · *en producción, repo privado* | Backoffice para gimnasios: socios, membresías, clases, accesos y caja auditable | Python · React · PostgreSQL |
+|:--|:--|:--|
+| **aceroGYM** · <sub>en producción, repo privado</sub> | Backoffice para gimnasios: socios, membresías, clases, accesos y caja auditable | Python · React · PostgreSQL |
 | [FinBot WhatsApp](https://github.com/SoyMonardez/bot_whatsapp) | Registra y consulta gastos familiares desde WhatsApp, con texto o audio | FastAPI · Whisper · Llama |
-| [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa) | *Freelance:* sitio y panel de gestión para una constructora, con analítica propia e IA | React · Express · PostgreSQL |
+| [Etán Construcciones](https://github.com/SoyMonardez/Et-n_portafolio_empresa) | Freelance: sitio y panel de gestión para una constructora, con analítica propia e IA | React · Express · PostgreSQL |
 | [Portfolio personal](https://github.com/SoyMonardez/portafolio_AlejoMonardez) | Sitio bilingüe con CMS propio y edición asistida por IA | React · Express · MySQL |
 | [Gancho](https://github.com/SoyMonardez/gancho-app) | MVP de punto de venta por peso para carnicerías | React · Express · MySQL |
 | [Natasha Models Academy](https://github.com/SoyMonardez/NatashaModelsAcademy) | Plataforma para una academia de modelaje con panel de administración | React · TypeScript · Prisma |
 
----
+<br>
 
-## 🛠️ Tecnologías
+<img alt="Herramientas que uso a diario." src="assets/h-stack-light.svg#gh-light-mode-only" width="100%"><img alt="Herramientas que uso a diario." src="assets/h-stack-dark.svg#gh-dark-mode-only" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,js,nodejs,react,ts,linux,git,docker,tailwind&perline=10&theme=dark" alt="Python, PostgreSQL, JavaScript, Node.js, React, TypeScript, Linux, Git, Docker, Tailwind CSS" />
+Lo que uso de verdad en mis proyectos: Python, JavaScript y lo necesario para llevarlos a producción.
+
+<img alt="Python, PostgreSQL, JavaScript, Node.js, React, TypeScript, Linux, Git, Docker, Tailwind CSS" src="https://skillicons.dev/icons?i=python,postgres,js,nodejs,react,ts,linux,git,docker,tailwind&perline=10&theme=light#gh-light-mode-only"><img alt="Python, PostgreSQL, JavaScript, Node.js, React, TypeScript, Linux, Git, Docker, Tailwind CSS" src="https://skillicons.dev/icons?i=python,postgres,js,nodejs,react,ts,linux,git,docker,tailwind&perline=10&theme=dark#gh-dark-mode-only">
+
+**Lo que estoy aprendiendo**
+
+<img alt="RAG, Embeddings, Bases de datos vectoriales, Análisis de datos" src="assets/t-aprendiendo-light.svg#gh-light-mode-only"><img alt="RAG, Embeddings, Bases de datos vectoriales, Análisis de datos" src="assets/t-aprendiendo-dark.svg#gh-dark-mode-only">
+
+<br>
+
+<a href="https://alejomonardez.com/#contacto"><img alt="Hablemos. Estoy listo para el próximo desafío." src="assets/h-contacto-light.svg#gh-light-mode-only" width="100%"></a><a href="https://alejomonardez.com/#contacto"><img alt="Hablemos. Estoy listo para el próximo desafío." src="assets/h-contacto-dark.svg#gh-dark-mode-only" width="100%"></a>
+
+<p>
+<a href="https://alejomonardez.com/#contacto"><img alt="Contacto" src="assets/b-contacto-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/#contacto"><img alt="Contacto" src="assets/b-contacto-dark.svg#gh-dark-mode-only"></a>
+<a href="https://www.linkedin.com/in/alejo-monardez/"><img alt="LinkedIn" src="assets/b-linkedin-light.svg#gh-light-mode-only"></a><a href="https://www.linkedin.com/in/alejo-monardez/"><img alt="LinkedIn" src="assets/b-linkedin-dark.svg#gh-dark-mode-only"></a>
+<a href="https://alejomonardez.com/uploads/cv/Alejo-Monardez-CV-2026.pdf"><img alt="Descargar CV" src="assets/b-cv-light.svg#gh-light-mode-only"></a><a href="https://alejomonardez.com/uploads/cv/Alejo-Monardez-CV-2026.pdf"><img alt="Descargar CV" src="assets/b-cv-dark.svg#gh-dark-mode-only"></a>
 </p>
-
-**IA aplicada:** Claude (Anthropic), Llama y Whisper vía Groq, ElevenLabs y WhatsApp con Evolution API. Asistentes de voz, chatbots, extracción de datos y automatización conversacional.
-
----
-
-## 🎯 Áreas de trabajo
-
-`Backend con Python` · `Diseño de APIs` · `SaaS multi-tenant` · `PWAs offline-first` · `Tareas programadas` · `Integración de IA y voz` · `Integración de servicios externos` · `Datos aplicados a productos`
-
----
-
-<div align="center">
-
-### 📬 Hablemos
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-alejomonardez.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alejomonardez.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-monardez/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
-
-</div>
